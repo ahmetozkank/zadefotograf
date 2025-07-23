@@ -7,7 +7,7 @@ Amaç; düğün, doğum, portre ve özel gün çekimlerini ziyaretçilere şık 
 
 ## 🌐 Canlı  Site
 
-🔗 [www.zadefotograf.com](https://www.zadefotograf.com)
+🔗 [zadefotograf.com](https://zadefotograf.com)
 
 ---
 
